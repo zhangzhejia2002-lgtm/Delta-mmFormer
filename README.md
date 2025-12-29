@@ -7,9 +7,7 @@ Delta-mmFormer is a multimodal Transformer framework developed for the CARE 2025
 Improved mmFormer for Liver Fibrosis Staging via Missing-Modality Compensation  
 Zhejia Zhang, Junjie Wang, Le Zhang  
 
-arXiv: https://arxiv.org/abs/2509.16436  
-
-This repository provides the official implementation of the method described in the paper. Some engineering details are simplified in the paper for clarity, while the core modeling assumptions and methodological design are strictly preserved.
+arXiv: https://arxiv.org/abs/2509.16436
 
 ## Method Overview
 
