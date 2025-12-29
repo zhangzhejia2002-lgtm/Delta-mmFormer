@@ -23,12 +23,12 @@ The model is evaluated on the official CARE 2025 LiFS dataset. The dataset compr
 
 The trained model checkpoints have been properly stored for reproducibility and further evaluation on Google Drive.
 
-Non-Contrast track:
+**Non-Contrast track**:
 
-Cirrhosis Detection (S1-3 VS S4)
+Cirrhosis Detection (S1-3 VS S4)  
 https://drive.google.com/drive/folders/1r59lZKcGHDUe1_uZWPTVzmxuhYEne7A6?usp=drive_link
 
-Substantial Fibrosis Detection (S1 VS S2–S4)
+Substantial Fibrosis Detection (S1 VS S2–S4)  
 https://drive.google.com/drive/folders/1az4shu_EzAmkSpTlYa2R8_wNQKeRbkkz?usp=drive_link
 
 ## License
