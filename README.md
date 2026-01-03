@@ -31,6 +31,14 @@ https://drive.google.com/drive/folders/1r59lZKcGHDUe1_uZWPTVzmxuhYEne7A6?usp=dri
 Substantial Fibrosis Detection (S1 VS S2–S4)  
 https://drive.google.com/drive/folders/1az4shu_EzAmkSpTlYa2R8_wNQKeRbkkz?usp=drive_link
 
+**Contrast track**:
+
+Cirrhosis Detection (S1-3 VS S4)  
+https://drive.google.com/drive/folders/17-I36mVvuftEaw8Wz-OZXQgUmidNRPVg?usp=sharing
+
+Substantial Fibrosis Detection (S1 VS S2–S4)  
+https://drive.google.com/drive/folders/1m3OLWHy-VZjxMoGQ3DTPPAVtBL5GvtcR?usp=sharing
+
 ## License
 
 This project is released under the Apache License 2.0.
