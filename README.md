@@ -9,6 +9,8 @@ Zhejia Zhang, Junjie Wang, Le Zhang
 
 arXiv: https://arxiv.org/abs/2509.16436
 
+Conference Paper of Care 2025 Challenge: https://link.springer.com/chapter/10.1007/978-3-032-16271-7_17#citeas
+
 ## Method
 
 Delta-mmFormer retains the modality-specific encoders and the modality-correlated Transformer from mmFormer to extract both modality-unique and cross-modal representations. To address missing-modality scenarios commonly encountered in real-world MRI acquisition, a Delta-function compensation module is introduced.
