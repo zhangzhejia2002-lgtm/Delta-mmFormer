@@ -48,9 +48,22 @@ This project is released under the Apache License 2.0.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{zhang2025improved,
-  title={Improved mmFormer for Liver Fibrosis Staging via Missing-Modality Compensation},
-  author={Zhang, Zhejia and Wang, Junjie and Zhang, Le},
-  journal={arXiv preprint arXiv:2509.16436},
-  year={2025}
+@InProceedings{10.1007/978-3-032-16271-7_17,
+author="Zhang, Zhejia
+and Wang, Junjie
+and Zhang, Le",
+editor="Zhuang, Xiahai
+and Ding, Wangbin
+and Liu, Yuanye
+and Ma, Yingliang
+and Zhao, Jichao
+and Wang, Bomin",
+title="Improved mmFormer for Liver Fibrosis Staging via Missing-Modality Compensation",
+booktitle="Comprehensive Analysis and Computing of Real-World Medical Images",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="180--189",
+abstract="In real-world clinical settings, magnetic resonance imaging (MRI) frequently suffers from missing modalities due to equipment variability or patient cooperation issues, which can significantly affect model performance. To address this issue, we propose a multimodal MRI classification model based on the mmFormer architecture with an adaptive module for handling arbitrary combinations of missing modalities. Specifically, this model retains the hybrid modality-specific encoders and the modality-correlated encoder from mmFormer to extract consistent lesion features across available modalities. In addition, we integrate a missing-modality compensation module which leverages zero-padding, modality availability masks, and a Delta Function with learnable statistical parameters to dynamically synthesize proxy features for recovering missing information. To further improve prediction performance, we adopt a cross-validation ensemble strategy by training multiple models on different folds and applying soft voting during inference. This method is evaluated on the test set of Comprehensive Analysis {\&} Computing of REal-world medical images (CARE) 2025 challenge, targeting the Liver Fibrosis Staging (LiFS) task based on non-contrast dynamic MRI scans including T1-weighted imaging (T1WI), T2-weighted imaging (T2WI), and diffusion-weighted imaging (DWI). For Cirrhosis Detection and Substantial Fibrosis Detection on in-distribution vendors, our model obtains accuracies of 66.67{\%} and 74.17{\%}, and corresponding area under the curve (AUC) scores of 71.73{\%} and 68.48{\%}, respectively.",
+isbn="978-3-032-16271-7"
 }
